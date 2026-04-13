@@ -7,7 +7,7 @@ This project demonstrates real-time user location tracking on an interactive map
 ## 🎥 Project Demo
 
 👉 Click to watch the demo video:  
-https://github.com/Muskan1402006/Unified-Location-Tracker/blob/main/demo.mp4
+https://github.com/Muskan1402006/Unified-Location-Tracker/blob/main/Recording%202025-09-14%20205212.mp4
 
 ---
 
